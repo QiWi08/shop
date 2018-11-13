@@ -1,0 +1,40 @@
+def kivi(cost,waight):
+    return cost*waight
+    
+def lemon(cost,waight):
+    return cost*waight
+def ananas(cost,waight):
+    return cost*waight
+    
+def water_mellon(cost,waight):
+    return cost*waight
+    
+    
+def result(c1,v1,c2,v2,c3,v3,c4,v4): 
+    sum= ananas(c1,v1)+kivi(c2,v2)+lemon(c3,v3)+water_mellon(c4,v4)
+    print(sum)
+
+
+
+
+
+"""
+    a= int(input("kivi \n "))
+    b= int (input("lemon\n "))
+    c= int(input("ananas \n "))
+    d= int(input("water_mellon \n "))"""
+a= 20
+b= 40
+c= 60
+d= 80
+    f = int(input("waight1\n"))
+    g = int(input("waight2 \n "))
+    h = int(input("waight3 \n "))
+    j = int(input("waight4 \n "))
+   #      result (20,f,40,g,60,j,80,h)"""
+   
+
+
+
+result (20,f,40,g,60,j,80,h
+result(1,2,3,4,5,6,7,8)
